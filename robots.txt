@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /*?lang=
 
-Sitemap: https://ahmedabdullaa.github.io/sitemap.xml
+Sitemap: https://ahmedarts238-gif.github.io/ahmedabdullaa/sitemap.xml

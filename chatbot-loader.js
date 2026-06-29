@@ -496,7 +496,7 @@ async function callAPI(userMsg) {
         headers: {
             'Content-Type': 'application/json',
             'Authorization': 'Bearer ' + atob('c2stb3ItdjEtNjZlYmRhYWQ1YzE2MTM0MjlmNThjZTFhMDViYmNjNWQ4YzBhN2MwNGNjMzkwNzdiOTBkYTcwZDFhMGFiZjJmOA=='),
-            'HTTP-Referer': 'https://ahmedabdullaa.github.io',
+            'HTTP-Referer': 'https://ahmedarts238-gif.github.io/ahmedabdullaa/',
             'X-Title': 'Ahmed Abdullah Portfolio',
         },
         body: JSON.stringify({
