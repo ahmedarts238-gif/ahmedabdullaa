@@ -1,0 +1,6 @@
+# Redirect lang query param (prevents duplicate content)
+/?lang=ar  / 301
+/?lang=en  / 301
+
+# 404 catch-all
+/*  /404.html 404

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*?lang=
+
+Sitemap: https://ahmedabdullaa.github.io/sitemap.xml
